@@ -8,7 +8,7 @@ The goal of this project was to build a model that would take in features of a s
 You can test the model yourself here:<br>
 https://blake-spencer-projects.herokuapp.com/classification#model
 
-The main steps where:
+The main steps were:
 
 1. [Obtain the features of a song in a playlist and create dataframes](https://github.com/blakespencer/classifying-genre/blob/master/Spotify_api.ipynb)
 2. [Train a model being able to predict and create data for Flask app to use](https://github.com/blakespencer/classifying-genre/blob/master/analysis.ipynb)
